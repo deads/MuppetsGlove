@@ -1,0 +1,36 @@
+RITGlove Version 0.1 by Damian Eads
+
+--------------------------------------------------------------------------
+RITGlove: A Java interface to the 5DT glove.
+Copyright (C) Damian Eads, 2004-2005.
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+---------------------------------------------------------------------------
+
+This is a Java library used to interface with the data glove 
+manufactured by Fifth Dimension Technologies, http://www.5dt.com/.
+
+To use this library, you will need the shared libraries from 5DT. 
+Download them here,
+  http://www.5dt.com/downloads.html#oldglove
+
+Type "make" at the shell prompt to build the library.
+
+Type "make doc" at the shell prompt to build the documentation for the library.
+
+Refer to the HTML files in the "doc" directory for information on how to 
+use the JNI library.
+
+
